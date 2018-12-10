@@ -1,0 +1,8 @@
+# IntelliJ generated files
+.idea/
+*.iml
+
+Makefile
+README.txt
+
+
