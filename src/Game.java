@@ -18,7 +18,7 @@ class Game implements Runnable {
                 "The game is simple, avoid going over the ceiling or falling through the floor.\n" +
                 "And go as far as you can!\n\n" +
                 "Controls:\n" +
-                "Use W and S to move left and right;\n" +
+                "Use A and D to move left and right;\n" +
                 "Use SPACE to jump;\n" +
                 "And don't forget to try LEFTARROW and RIGHTARROW. They're beyond your imagination...\n",
                 "Welcome", JOptionPane.PLAIN_MESSAGE);

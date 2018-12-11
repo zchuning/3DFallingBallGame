@@ -11,7 +11,7 @@ different angles. This adds infinite possibilities (and cool visual effects to t
 
 
 ## How to play?
-Use **W** and **S** to move left and right.
+Use **A** and **D** to move left and right.
 
 Use **SPACE** to jump.
 
