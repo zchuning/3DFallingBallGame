@@ -311,7 +311,7 @@ class Display extends JPanel {
         blocks = new LinkedList<>();
         blocks.add(b1);
 
-        timer.start();
+        timer.restart();
         requestFocusInWindow();
     }
 }
