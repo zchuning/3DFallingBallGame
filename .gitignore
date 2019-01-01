@@ -1,9 +1,11 @@
 # IntelliJ generated files
 .idea/
-*.iml
+.iml
 
+.class
 .DS_Store
 
-Makefile
 README.txt
+
+
 

@@ -222,7 +222,7 @@ class Display extends JPanel {
             }
             this.reset();
         } catch (IOException e){
-            System.out.print("Caught IO Exception");
+            System.out.print("Caught IO Exception when initializing");
         }
     }
 
@@ -275,7 +275,7 @@ class Display extends JPanel {
             reset();
 
         } catch (IOException e) {
-            System.out.print("Caught IO Exception");
+            System.out.print("Caught IO Exception when terminating");
         }
     }
 
@@ -311,7 +311,7 @@ class Display extends JPanel {
         blocks = new LinkedList<>();
         blocks.add(b1);
 
-        timer.restart();
+        timer.start();
         requestFocusInWindow();
     }
 }
