@@ -1,4 +1,4 @@
-# How-Far-Can-You-Go
+# How Far Can You Go?
 A pseudo-3D game written with Java Swing Library.
 
 ![alt text](https://github.com/zchuning/How-Far-Can-You-Go/raw/master/files/Gameplay.png "Gameplay")
@@ -17,4 +17,4 @@ Use **SPACE** to jump.
 
 Use **control buttons** to reset, pause, and resume.
 
-And don't forget to try **LEFTARROW** and **RIGHTARROW**. They're beyond your imagination...
+Use **LEFTARROW** and **RIGHTARROW** to rotate the camera by 90 degrees.
