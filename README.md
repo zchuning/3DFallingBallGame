@@ -1,5 +1,5 @@
 # How Far Can You Go
-A mock 3D game written with Java Swing Library.
+A pseudo 3D game written with Java Swing Library.
 
 ![alt text](https://github.com/zchuning/How-Far-Can-You-Go/raw/master/files/Gameplay.png "Gameplay")
 
