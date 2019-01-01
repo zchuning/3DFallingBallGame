@@ -23,3 +23,6 @@ Use **LEFTARROW** and **RIGHTARROW** to rotate the camera by 90 degrees.
 1. Clone the repository
 2. Navigate to the root directory
 3. Run ```make run```
+
+## Note
+This game is also my final project for CIS 120.
