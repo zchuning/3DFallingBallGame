@@ -1,11 +1,15 @@
 # IntelliJ generated files
 .idea/
 .iml
-
 .class
+
+# OSX
 .DS_Store
 
-README.txt
+# Build files
+bin/
 
+# Scoreboard
+files/scoreBoard
 
 
