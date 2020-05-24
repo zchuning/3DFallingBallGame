@@ -5,11 +5,11 @@ A pseudo 3D game written with Java Swing Library.
 
 ## About
 This game is similar to a game on old Nokia cellphones (I forgot its name). The player controls a ball to move around 
-a collection of elevating floors. The goal is to avoid going over the ceiling or falling below the floor. However, this 
+elevating floors. The goal is to avoid going over the ceiling or falling below the floor. However, this 
 game is different from the original version because **it's 3D**. The player can rotate the camera to view the floors 
 from different angles. This adds infinite possibilities (and cool visual effects) to the game.
 
-This game is also my final project for CIS 120.
+This game is a final project for the Fall 2018 iteration of CIS 120.
 
 ## Control
 Use **A** and **D** to move left and right.
